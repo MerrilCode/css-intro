@@ -1,0 +1,24 @@
+body {
+	font-family: Arial;
+	colour: #989898;
+}
+
+li {
+			font-weight: bold;
+			font-size: 16px;
+			color: #AABBCC;
+		}
+li {
+	font-size: 12px;
+}
+#active {
+	color: #00FF00;
+}
+
+#finished li {
+	color:#0000FF;
+}
+li.finished {
+	font-weight: bold;
+	color:green;
+}
